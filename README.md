@@ -1,16 +1,7 @@
 # beer_app
 
-A new Flutter project.
+A source code of the new Flutter project tutorial that will go through the process of making a real mobile app.
 
-## Getting Started
+I hope you will be able to learn how to make a flutter app by yourself after watching this short flutter tutorial.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### youtube video: https://www.youtube.com/watch?v=xXSqzqjk7EA
